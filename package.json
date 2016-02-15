@@ -1,10 +1,9 @@
 {
   "name": "comment-timestamp",
   "main": "./lib/comment-timestamp",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "This package will insert a comment with name and timestamp.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "comment-timestamp:comment"
   },
@@ -19,6 +18,5 @@
       "email": "jai.chandra@gmail.com"
     }
   ],
-  "dependencies": {
-  }
+  "dependencies": {}
 }
