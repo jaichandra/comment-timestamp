@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Comment with timestamp'
+      'command': 'comment-timestamp:comment'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'comment-timestamp'
+      'submenu': [
+        {
+          'label': 'Comment with timestamp'
+          'command': 'comment-timestamp:comment'
+        }
+      ]
+    ]
+  }
+]

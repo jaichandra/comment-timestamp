@@ -1,0 +1,24 @@
+{
+  "name": "comment-timestamp",
+  "main": "./lib/comment-timestamp",
+  "version": "0.0.0",
+  "description": "This package will insert a comment with name and timestamp",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "comment-timestamp:comment"
+  },
+  "repository": "https://github.com/atom/comment-timestamp",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "contributors": [
+    {
+      "name": "jaichandra",
+      "email": "jaichandramouli@gmail.com"
+    }
+  ],
+  "dependencies": {
+  }
+}
