@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "comment-timestamp:comment"
   },
-  "repository": "https://github.com/atom/comment-timestamp",
+  "repository": "https://github.com/jaichandra/comment-timestamp",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
