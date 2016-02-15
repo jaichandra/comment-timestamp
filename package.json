@@ -2,7 +2,7 @@
   "name": "comment-timestamp",
   "main": "./lib/comment-timestamp",
   "version": "0.0.0",
-  "description": "This package will insert a comment with name and timestamp",
+  "description": "This package will insert a comment with name and timestamp.",
   "keywords": [
   ],
   "activationCommands": {
@@ -16,7 +16,7 @@
   "contributors": [
     {
       "name": "jaichandra",
-      "email": "jaichandramouli@gmail.com"
+      "email": "jai.chandra@gmail.com"
     }
   ],
   "dependencies": {
