@@ -36,4 +36,4 @@ module.exports = CommentTimestamp =
 
   comment: ->
     editor = atom.workspace.getActivePaneItem()
-    editor.insertText('\t//\tedited by Jai: ' + new Date().toLocaleString())
+    editor.insertText('\t//\tedited by <>: ' + new Date().toLocaleString())
