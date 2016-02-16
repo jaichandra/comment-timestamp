@@ -1,4 +1,4 @@
-# comment-timestamp package
+# comment-timestamp
 
 This package will insert a comment with name and timestamp.
 

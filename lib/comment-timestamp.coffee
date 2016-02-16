@@ -6,7 +6,7 @@ module.exports = CommentTimestamp =
     _commentPrefix:
       title: 'Comment prefix'
       type: 'string'
-      default: 'edited by <>'
+      default: 'edited by <name>'
       description: "Set a prefix to the comment. Timestamp will be appended to the end of this string."
 
   commentTimestampView: null
