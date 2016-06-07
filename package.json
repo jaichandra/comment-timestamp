@@ -1,7 +1,7 @@
 {
   "name": "comment-timestamp",
   "main": "./lib/comment-timestamp",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "This package will insert a comment with name and timestamp.",
   "keywords": [],
   "activationCommands": {
