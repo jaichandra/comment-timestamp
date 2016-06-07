@@ -43,4 +43,4 @@ module.exports = CommentTimestamp =
 
   comment: ->
     editor = atom.workspace.getActivePaneItem()
-    editor.insertText('\t// ' + atom.config.get('comment-timestamp._commentPrefix') + ': ' + new Date().toLocaleString())
+    editor.insertText('// ' + atom.config.get('comment-timestamp._commentPrefix') + ': ' + new Date().toLocaleString())
